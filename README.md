@@ -1,5 +1,4 @@
 # Ionic 2 Scrollable Tabs
-
 This is demo of Scrollable Tabs Ionic 2 Plugin.
 
 
